@@ -26,7 +26,7 @@ builder:
         app:
           name: ZFE_ALP_00
           description: Analytical app 00
-          package: $tmp
+          package: ZBTP_UI_00
           transport: MD1K903768
         exclude:
           - /test/
